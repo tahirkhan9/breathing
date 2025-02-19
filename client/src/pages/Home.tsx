@@ -10,7 +10,7 @@ export default function Home() {
           Breathing Exercises
         </h1>
         <p className="text-center text-gray-600 mb-8">
-          Take a moment to breathe and relax
+          Take a moment to breathe and relax in
         </p>
 
         <Card className="mb-8">
